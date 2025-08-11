@@ -34,7 +34,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 96,
+      "Score": 97,
       "Locked": 1
     },
     {
@@ -49,7 +49,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 166776,
+      "Score": 167271,
       "Locked": 1
     },
     {
@@ -224,7 +224,7 @@
   "Tang__xiaogou": [
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 74590,
+      "Score": 74591,
       "Locked": 1
     },
     {
@@ -239,12 +239,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 306756,
+      "Score": 307669,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 56276,
+      "Score": 56278,
       "Locked": 1
     },
     {
@@ -261,32 +261,32 @@
   "niguolaixiyue": [
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 193066,
+      "Score": 193144,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 191,
+      "Score": 199,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 10592,
+      "Score": 10738,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.fishing_count",
-      "Score": 291,
+      "Score": 1325,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 743772,
+      "Score": 762798,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 181075,
+      "Score": 181160,
       "Locked": 1
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 136899,
+      "Score": 137345,
       "Locked": 1
     }
   ],
