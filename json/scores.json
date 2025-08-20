@@ -1,8 +1,13 @@
 {
   "ggcsj": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 168,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 2,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 2,
       "Locked": 1
     },
     {
@@ -11,50 +16,35 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 2,
-      "Locked": 1
-    },
-    {
       "Objective": "fzsd.module.scoreboard.display.death_count",
       "Score": 4,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 2,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 168,
       "Locked": 1
     }
   ],
   "pigeons2023": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 7816,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 114,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 80263,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 19013,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 107084,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.fishing_count",
-      "Score": 256,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 112,
+      "Score": 107086,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 187340,
+      "Score": 189067,
       "Locked": 1
     },
     {
@@ -63,40 +53,40 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 19012,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 7888,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.fishing_count",
+      "Score": 256,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 80263,
       "Locked": 1
     }
   ],
   "kbpf": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 3241,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 83,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 92480,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 5452,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 128448,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.fishing_count",
-      "Score": 1,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 82,
+      "Score": 129157,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 390965,
+      "Score": 395698,
       "Locked": 1
     },
     {
@@ -105,30 +95,35 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 5448,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 3241,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.fishing_count",
+      "Score": 1,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 94165,
       "Locked": 1
     }
   ],
   "xiaoxiaoxu": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 867,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 89,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 6685,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 22,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 2021,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 89,
       "Locked": 1
     },
     {
@@ -142,30 +137,30 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 22,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 867,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 6685,
       "Locked": 1
     }
   ],
   "mukaunonline": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 4,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 2,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 125,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 47,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 574,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 2,
       "Locked": 1
     },
     {
@@ -179,30 +174,30 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 47,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 4,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 125,
       "Locked": 1
     }
   ],
   "The_Linsama": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 3412,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 14,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 71703,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 4669,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 1822,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 14,
       "Locked": 1
     },
     {
@@ -216,40 +211,35 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 4669,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 3412,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 71703,
       "Locked": 1
     }
   ],
   "Tang__xiaogou": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 2229,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 141,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 119040,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 30048,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 103462,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.fishing_count",
-      "Score": 26,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 137,
+      "Score": 104114,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 362087,
+      "Score": 367736,
       "Locked": 1
     },
     {
@@ -258,62 +248,67 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 30047,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 2229,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.fishing_count",
+      "Score": 26,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 119346,
       "Locked": 1
     }
   ],
   "niguolaixiyue": [
+    {
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 261,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 139132,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.placement_count",
+      "Score": 270681,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
+      "Score": 1030543,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.death_count",
+      "Score": 39,
+      "Locked": 1
+    },
     {
       "Objective": "fzsd.module.scoreboard.display.trade_count",
       "Score": 11361,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 231888,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 250540,
-      "Locked": 1
-    },
-    {
       "Objective": "fzsd.module.scoreboard.display.fishing_count",
-      "Score": 2077,
+      "Score": 2081,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 252,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 994595,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.death_count",
-      "Score": 38,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 138766,
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 234251,
       "Locked": 1
     }
   ],
   "XiQuedhm233": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 1,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 119,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 9,
       "Locked": 1
     },
     {
@@ -332,30 +327,30 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 9,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 1,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 119,
       "Locked": 1
     }
   ],
   "3q14": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 15,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 4,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 75,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 860,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 81,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 4,
       "Locked": 1
     },
     {
@@ -369,20 +364,25 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 860,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 15,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 75,
       "Locked": 1
     }
   ],
   "FRUITS_CANDY": [
     {
-      "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 1,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 11,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 11,
+      "Objective": "fzsd.module.scoreboard.display.placement_count",
+      "Score": 1,
       "Locked": 1
     },
     {
@@ -393,8 +393,8 @@
   ],
   "SunShadow_OwO": [
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 70,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 2,
       "Locked": 1
     },
     {
@@ -403,30 +403,25 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 2,
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 70,
       "Locked": 1
     }
   ],
   "Ma_baiyun": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 8,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 2,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 192,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 2652,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 217,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 2,
       "Locked": 1
     },
     {
@@ -440,25 +435,45 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 2652,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 8,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 192,
       "Locked": 1
     }
   ],
   "SeiunSky": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 406,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 26,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 4464,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 2873,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 6515,
+      "Score": 8183,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
+      "Score": 62510,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.death_count",
+      "Score": 7,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 406,
       "Locked": 1
     },
     {
@@ -467,45 +482,25 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 22,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 49464,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.death_count",
-      "Score": 6,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 2863,
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 5889,
       "Locked": 1
     }
   ],
   "Chlorine2333": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 8503,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 147,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 219530,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 96265,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 230032,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 147,
       "Locked": 1
     },
     {
@@ -519,35 +514,30 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 96265,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 8503,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 219530,
       "Locked": 1
     }
   ],
   "MercuryPluto115": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 7945,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 18,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 1409,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 1296,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 1760,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.fishing_count",
-      "Score": 1,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 18,
       "Locked": 1
     },
     {
@@ -561,30 +551,35 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1296,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 7945,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.fishing_count",
+      "Score": 1,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 1409,
       "Locked": 1
     }
   ],
   "Ethancai666": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 193,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 1,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
       "Score": 9,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 31,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 1,
       "Locked": 1
     },
     {
@@ -598,25 +593,30 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 193,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
       "Score": 9,
       "Locked": 1
     }
   ],
   "Kino0821": [
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 3099,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 6,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 18,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 1710,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 6,
       "Locked": 1
     },
     {
@@ -630,30 +630,25 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 18,
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 3099,
       "Locked": 1
     }
   ],
   "saleng_dada": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 835,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 5,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 1662,
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 12075,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 184,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 5,
       "Locked": 1
     },
     {
@@ -667,12 +662,37 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 12075,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 835,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 1662,
       "Locked": 1
     }
   ],
   "zijlo": [
+    {
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 1,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 846,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.placement_count",
+      "Score": 1407,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
+      "Score": 1525,
+      "Locked": 1
+    },
     {
       "Objective": "fzsd.module.scoreboard.display.trade_count",
       "Score": 450,
@@ -682,47 +702,22 @@
       "Objective": "fzsd.module.scoreboard.display.dig_count",
       "Score": 2619,
       "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 1407,
-      "Locked": 1
-    },
+    }
+  ],
+  "alagadda01": [
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
       "Score": 1,
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1525,
-      "Locked": 1
-    },
-    {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 846,
-      "Locked": 1
-    }
-  ],
-  "alagadda01": [
-    {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 142,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 4,
+      "Score": 2,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 6,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 1,
       "Locked": 1
     },
     {
@@ -736,25 +731,30 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 2,
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 142,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 4,
       "Locked": 1
     }
   ],
   "zhinanzheng": [
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 167,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 1,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 13,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 19,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 1,
       "Locked": 1
     },
     {
@@ -768,25 +768,25 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 13,
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 167,
       "Locked": 1
     }
   ],
   "SevenSharks_77": [
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 822,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 3,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 12,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
       "Score": 968,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 3,
       "Locked": 1
     },
     {
@@ -800,44 +800,69 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 12,
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 822,
       "Locked": 1
     }
   ],
   "__a7__": [
     {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 724,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 21002,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 261997,
-      "Locked": 1
-    },
-    {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 30,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 79308,
+      "Score": 41,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 2507,
+      "Score": 2543,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.placement_count",
+      "Score": 285513,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
+      "Score": 94906,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 1276,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 27870,
       "Locked": 1
     }
   ],
   "sakura78496": [
+    {
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 17,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.kill_count",
+      "Score": 566,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.placement_count",
+      "Score": 4404,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
+      "Score": 42042,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.death_count",
+      "Score": 5,
+      "Locked": 1
+    },
     {
       "Objective": "fzsd.module.scoreboard.display.trade_count",
       "Score": 1490,
@@ -845,39 +870,14 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 8356,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 3199,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 15,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 35329,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.death_count",
-      "Score": 3,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 310,
+      "Score": 9582,
       "Locked": 1
     }
   ],
   "xshmyb0828": [
     {
-      "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 10,
+      "Objective": "fzsd.module.scoreboard.display.activation",
+      "Score": 1,
       "Locked": 1
     },
     {
@@ -886,52 +886,50 @@
       "Locked": 1
     },
     {
-      "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 1,
-      "Locked": 1
-    },
-    {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
       "Score": 2780,
-      "Locked": 1
-    }
-  ],
-  "yanzhenzhenshuai": [
-    {
-      "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 937,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 6073,
+      "Score": 10,
       "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 5112,
-      "Locked": 1
-    },
+    }
+  ],
+  "Gesan0412": [
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 18,
-      "Locked": 1
-    },
-    {
-      "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 34450,
+      "Score": 3,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1957,
+      "Score": 3806,
       "Locked": 1
-    }
-  ],
-  "bababoyoy": [
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.placement_count",
+      "Score": 43,
+      "Locked": 1
+    },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 530,
+      "Score": 6977,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.death_count",
+      "Score": 4,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.trade_count",
+      "Score": 736,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.dig_count",
+      "Score": 67,
       "Locked": 1
     }
   ]
