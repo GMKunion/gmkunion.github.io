@@ -458,7 +458,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 12045,
+      "Score": 12046,
       "Locked": 1
     },
     {
@@ -473,7 +473,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 64939,
+      "Score": 65098,
       "Locked": 1
     },
     {
@@ -510,7 +510,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 676593,
+      "Score": 676651,
       "Locked": 1
     },
     {
@@ -611,17 +611,17 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 18,
+      "Score": 27,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 1710,
+      "Score": 1711,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 15921,
+      "Score": 16076,
       "Locked": 1
     },
     {
@@ -813,27 +813,27 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 3515,
+      "Score": 3705,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 589408,
+      "Score": 589409,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 7405,
+      "Score": 7406,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 181692,
+      "Score": 182270,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 107,
+      "Score": 125,
       "Locked": 1
     },
     {
@@ -946,7 +946,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1469,
+      "Score": 1473,
       "Locked": 1
     },
     {
@@ -966,7 +966,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 20,
+      "Score": 21,
       "Locked": 1
     },
     {
