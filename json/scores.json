@@ -808,17 +808,17 @@
   "__a7__": [
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 57040,
+      "Score": 57045,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 3705,
+      "Score": 3758,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 589409,
+      "Score": 589416,
       "Locked": 1
     },
     {
@@ -828,24 +828,24 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 182270,
+      "Score": 183171,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 125,
+      "Score": 139,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.death_count",
-      "Score": 2,
+      "Score": 5,
       "Locked": 1
     }
   ],
   "sakura78496": [
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 40397,
+      "Score": 40420,
       "Locked": 1
     },
     {
@@ -865,7 +865,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 76327,
+      "Score": 76572,
       "Locked": 1
     },
     {
