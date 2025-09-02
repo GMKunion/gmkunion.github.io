@@ -448,7 +448,7 @@
   "SeiunSky": [
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 6057,
+      "Score": 6095,
       "Locked": 1
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 12046,
+      "Score": 12055,
       "Locked": 1
     },
     {
@@ -473,7 +473,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 65098,
+      "Score": 65541,
       "Locked": 1
     },
     {
@@ -808,17 +808,17 @@
   "__a7__": [
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 57045,
+      "Score": 57060,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 3758,
+      "Score": 3779,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 589416,
+      "Score": 589431,
       "Locked": 1
     },
     {
@@ -828,12 +828,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 183171,
+      "Score": 186334,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 139,
+      "Score": 152,
       "Locked": 1
     },
     {
