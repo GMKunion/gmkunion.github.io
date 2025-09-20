@@ -49,12 +49,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 214703,
+      "Score": 215059,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 124,
+      "Score": 125,
       "Locked": 1
     },
     {
@@ -286,7 +286,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1228117,
+      "Score": 1228409,
       "Locked": 1
     },
     {
@@ -808,7 +808,7 @@
   "__a7__": [
     {
       "Objective": "fzsd.module.scoreboard.display.death_count",
-      "Score": 5,
+      "Score": 6,
       "Locked": 1
     },
     {
@@ -818,27 +818,27 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 111468,
+      "Score": 128704,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 244170,
+      "Score": 261412,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 187,
+      "Score": 193,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 6998,
+      "Score": 7654,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 1089765,
+      "Score": 1161698,
       "Locked": 1
     }
   ],
@@ -951,12 +951,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 34052,
+      "Score": 34063,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 85100,
+      "Score": 85740,
       "Locked": 1
     },
     {
@@ -971,7 +971,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 38623,
+      "Score": 38631,
       "Locked": 1
     }
   ],
@@ -988,7 +988,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 12414,
+      "Score": 12575,
       "Locked": 1
     },
     {
