@@ -187,7 +187,7 @@
   "Tang__xiaogou": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 121364,
+      "Score": 127357,
       "Locked": 1
     },
     {
@@ -197,12 +197,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 127298,
+      "Score": 127806,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 30410,
+      "Score": 30413,
       "Locked": 1
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 159,
+      "Score": 165,
       "Locked": 1
     },
     {
@@ -222,14 +222,14 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 431563,
+      "Score": 439231,
       "Locked": 1
     }
   ],
   "niguolaixiyue": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 372485,
+      "Score": 381717,
       "Locked": 1
     },
     {
@@ -239,22 +239,22 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 326027,
+      "Score": 326070,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 140163,
+      "Score": 140193,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.fishing_count",
-      "Score": 2584,
+      "Score": 2593,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 374,
+      "Score": 381,
       "Locked": 1
     },
     {
@@ -264,7 +264,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1322464,
+      "Score": 1339682,
       "Locked": 1
     }
   ],
@@ -453,7 +453,7 @@
   "Chlorine2333": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 504413,
+      "Score": 529348,
       "Locked": 1
     },
     {
@@ -463,22 +463,22 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 259615,
+      "Score": 259757,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 100128,
+      "Score": 100140,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.fishing_count",
-      "Score": 78,
+      "Score": 94,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 179,
+      "Score": 186,
       "Locked": 1
     },
     {
@@ -488,7 +488,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 822866,
+      "Score": 844887,
       "Locked": 1
     }
   ],
@@ -909,7 +909,7 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 50802,
+      "Score": 50868,
       "Locked": 1
     },
     {
@@ -919,17 +919,17 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 41773,
+      "Score": 41809,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1878,
+      "Score": 1883,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 53,
+      "Score": 54,
       "Locked": 1
     },
     {
@@ -939,7 +939,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 111706,
+      "Score": 112990,
       "Locked": 1
     }
   ],
@@ -995,32 +995,37 @@
   "Kea1L": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 6638,
+      "Score": 8776,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 1051,
+      "Score": 2012,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 8625,
+      "Score": 8704,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 140,
+      "Score": 271,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 21,
+      "Score": 27,
+      "Locked": 1
+    },
+    {
+      "Objective": "fzsd.module.scoreboard.display.death_count",
+      "Score": 1,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 87421,
+      "Score": 99966,
       "Locked": 1
     }
   ],
