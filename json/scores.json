@@ -872,12 +872,12 @@
   "Gesan0412": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 27866,
+      "Score": 28249,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 15422,
+      "Score": 15423,
       "Locked": 1
     },
     {
@@ -887,7 +887,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 19410,
+      "Score": 19412,
       "Locked": 1
     },
     {
