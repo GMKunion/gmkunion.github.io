@@ -217,7 +217,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 176,
+      "Score": 177,
       "Locked": 1
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 409,
+      "Score": 410,
       "Locked": 1
     },
     {
@@ -453,7 +453,7 @@
   "Chlorine2333": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 934507,
+      "Score": 934642,
       "Locked": 1
     },
     {
@@ -813,17 +813,17 @@
   "sakura78496": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 102214,
+      "Score": 103593,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1382,
+      "Score": 1383,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 7360,
+      "Score": 7396,
       "Locked": 1
     },
     {
@@ -833,12 +833,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 43789,
+      "Score": 43831,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 36,
+      "Score": 37,
       "Locked": 1
     },
     {
@@ -909,17 +909,17 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 134639,
+      "Score": 137881,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1908,
+      "Score": 1939,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 84139,
+      "Score": 84484,
       "Locked": 1
     },
     {
@@ -929,12 +929,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 46423,
+      "Score": 48623,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 69,
+      "Score": 72,
       "Locked": 1
     },
     {
