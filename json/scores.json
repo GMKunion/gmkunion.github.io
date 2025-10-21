@@ -813,17 +813,17 @@
   "sakura78496": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 107229,
+      "Score": 112443,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1391,
+      "Score": 1396,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 7406,
+      "Score": 7719,
       "Locked": 1
     },
     {
@@ -833,12 +833,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 44000,
+      "Score": 44753,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 38,
+      "Score": 39,
       "Locked": 1
     },
     {
