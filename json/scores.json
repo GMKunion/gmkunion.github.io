@@ -1042,7 +1042,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 5447,
+      "Score": 5449,
       "Locked": 1
     },
     {
@@ -1062,7 +1062,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 11,
+      "Score": 12,
       "Locked": 1
     },
     {
