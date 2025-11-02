@@ -229,12 +229,12 @@
   "niguolaixiyue": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1415644,
+      "Score": 1416863,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 140421,
+      "Score": 140422,
       "Locked": 1
     },
     {
@@ -259,7 +259,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 411,
+      "Score": 412,
       "Locked": 1
     },
     {
@@ -453,7 +453,7 @@
   "Chlorine2333": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 935013,
+      "Score": 938416,
       "Locked": 1
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 538912,
+      "Score": 538987,
       "Locked": 1
     },
     {
@@ -478,12 +478,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 270220,
+      "Score": 270774,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 203,
+      "Score": 204,
       "Locked": 1
     },
     {
@@ -909,17 +909,17 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 139677,
+      "Score": 145867,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1945,
+      "Score": 1954,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 84550,
+      "Score": 84686,
       "Locked": 1
     },
     {
@@ -929,12 +929,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 48663,
+      "Score": 48778,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 73,
+      "Score": 76,
       "Locked": 1
     },
     {
