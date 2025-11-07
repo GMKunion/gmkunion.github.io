@@ -229,7 +229,7 @@
   "niguolaixiyue": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1416863,
+      "Score": 1416915,
       "Locked": 1
     },
     {
@@ -776,27 +776,27 @@
   "__a7__": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 337788,
+      "Score": 339343,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 8731,
+      "Score": 8733,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 1207499,
+      "Score": 1207522,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.trade_count",
-      "Score": 8515,
+      "Score": 8545,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 162157,
+      "Score": 162158,
       "Locked": 1
     },
     {
