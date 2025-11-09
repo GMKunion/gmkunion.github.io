@@ -303,7 +303,7 @@
   "3q14": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 7723,
+      "Score": 7947,
       "Locked": 1
     },
     {
@@ -909,12 +909,12 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 146141,
+      "Score": 146312,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1964,
+      "Score": 1982,
       "Locked": 1
     },
     {
@@ -929,7 +929,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 48791,
+      "Score": 48794,
       "Locked": 1
     },
     {
