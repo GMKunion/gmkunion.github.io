@@ -776,7 +776,7 @@
   "__a7__": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 339343,
+      "Score": 339528,
       "Locked": 1
     },
     {
@@ -786,7 +786,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 1207522,
+      "Score": 1207523,
       "Locked": 1
     },
     {
@@ -801,7 +801,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 237,
+      "Score": 238,
       "Locked": 1
     },
     {
