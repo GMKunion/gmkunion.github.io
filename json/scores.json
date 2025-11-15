@@ -909,17 +909,17 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 146312,
+      "Score": 146395,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1982,
+      "Score": 1983,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 84694,
+      "Score": 84842,
       "Locked": 1
     },
     {
@@ -929,12 +929,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 48794,
+      "Score": 48820,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 76,
+      "Score": 77,
       "Locked": 1
     },
     {
