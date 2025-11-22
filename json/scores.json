@@ -453,7 +453,7 @@
   "Chlorine2333": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 938421,
+      "Score": 938427,
       "Locked": 1
     },
     {
@@ -909,17 +909,17 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 146443,
+      "Score": 149441,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1983,
+      "Score": 1984,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 84842,
+      "Score": 84867,
       "Locked": 1
     },
     {
@@ -929,7 +929,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 48820,
+      "Score": 48908,
       "Locked": 1
     },
     {
