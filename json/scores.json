@@ -187,7 +187,7 @@
   "Tang__xiaogou": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 468258,
+      "Score": 468546,
       "Locked": 1
     },
     {
@@ -909,7 +909,7 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 158556,
+      "Score": 159037,
       "Locked": 1
     },
     {
@@ -919,7 +919,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 93872,
+      "Score": 94072,
       "Locked": 1
     },
     {
@@ -929,7 +929,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 114565,
+      "Score": 120878,
       "Locked": 1
     },
     {
