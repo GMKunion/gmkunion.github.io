@@ -229,7 +229,7 @@
   "niguolaixiyue": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1416919,
+      "Score": 1417876,
       "Locked": 1
     },
     {
@@ -239,7 +239,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 383358,
+      "Score": 383384,
       "Locked": 1
     },
     {
@@ -254,12 +254,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 335142,
+      "Score": 335144,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 416,
+      "Score": 417,
       "Locked": 1
     },
     {
@@ -453,7 +453,7 @@
   "Chlorine2333": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 940910,
+      "Score": 941778,
       "Locked": 1
     },
     {
@@ -463,7 +463,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 538987,
+      "Score": 538995,
       "Locked": 1
     },
     {
@@ -478,7 +478,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 270774,
+      "Score": 270776,
       "Locked": 1
     },
     {
@@ -909,17 +909,17 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 161498,
+      "Score": 162962,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 2094,
+      "Score": 2107,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 95139,
+      "Score": 139684,
       "Locked": 1
     },
     {
@@ -929,12 +929,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 180247,
+      "Score": 186165,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 87,
+      "Score": 88,
       "Locked": 1
     },
     {
