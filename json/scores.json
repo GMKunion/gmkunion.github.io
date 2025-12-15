@@ -71,12 +71,12 @@
   "kbpf": [
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 421738,
+      "Score": 422864,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 5790,
+      "Score": 5792,
       "Locked": 1
     },
     {
@@ -101,7 +101,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 89,
+      "Score": 90,
       "Locked": 1
     },
     {
