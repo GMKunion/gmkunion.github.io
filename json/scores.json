@@ -187,12 +187,12 @@
   "Tang__xiaogou": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 144528,
+      "Score": 170292,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 470540,
+      "Score": 470787,
       "Locked": 1
     },
     {
@@ -212,7 +212,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 139190,
+      "Score": 139194,
       "Locked": 1
     },
     {
@@ -229,12 +229,12 @@
   "niguolaixiyue": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 383384,
+      "Score": 383386,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1417876,
+      "Score": 1418743,
       "Locked": 1
     },
     {
@@ -254,7 +254,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 335144,
+      "Score": 345991,
       "Locked": 1
     },
     {
@@ -818,7 +818,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 113370,
+      "Score": 115201,
       "Locked": 1
     },
     {
@@ -833,12 +833,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 44840,
+      "Score": 44842,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 1396,
+      "Score": 1583,
       "Locked": 1
     },
     {
@@ -909,12 +909,12 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 139684,
+      "Score": 215899,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 162962,
+      "Score": 164550,
       "Locked": 1
     },
     {
@@ -924,12 +924,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 88,
+      "Score": 90,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 186165,
+      "Score": 186259,
       "Locked": 1
     },
     {
