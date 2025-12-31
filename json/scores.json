@@ -34,7 +34,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 237238,
+      "Score": 237541,
       "Locked": 1
     },
     {
@@ -44,7 +44,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 137,
+      "Score": 138,
       "Locked": 1
     },
     {
@@ -71,12 +71,12 @@
   "kbpf": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 190072,
+      "Score": 190076,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 425770,
+      "Score": 426773,
       "Locked": 1
     },
     {
@@ -96,7 +96,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 116918,
+      "Score": 116922,
       "Locked": 1
     },
     {
@@ -150,7 +150,7 @@
   "The_Linsama": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 1822,
+      "Score": 1828,
       "Locked": 1
     },
     {
@@ -165,7 +165,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 14,
+      "Score": 15,
       "Locked": 1
     },
     {
@@ -234,7 +234,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1418778,
+      "Score": 1419440,
       "Locked": 1
     },
     {
@@ -244,7 +244,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 418,
+      "Score": 419,
       "Locked": 1
     },
     {
@@ -303,12 +303,12 @@
   "3q14": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 82,
+      "Score": 90,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 7948,
+      "Score": 9708,
       "Locked": 1
     },
     {
@@ -318,17 +318,17 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 4,
+      "Score": 5,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 75,
+      "Score": 82,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 860,
+      "Score": 1055,
       "Locked": 1
     },
     {
@@ -458,7 +458,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 941778,
+      "Score": 942258,
       "Locked": 1
     },
     {
@@ -909,12 +909,12 @@
   "tang_baby": [
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 239297,
+      "Score": 239300,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 189846,
+      "Score": 189925,
       "Locked": 1
     },
     {
@@ -929,7 +929,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 193516,
+      "Score": 193518,
       "Locked": 1
     },
     {
