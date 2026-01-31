@@ -187,7 +187,7 @@
   "Tang__xiaogou": [
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 180,
+      "Score": 182,
       "Locked": 1
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 178001,
+      "Score": 178323,
       "Locked": 1
     },
     {
@@ -212,12 +212,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 139224,
+      "Score": 139225,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 475556,
+      "Score": 479868,
       "Locked": 1
     },
     {
@@ -328,7 +328,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 10073,
+      "Score": 11530,
       "Locked": 1
     },
     {
@@ -924,17 +924,17 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 239322,
+      "Score": 239326,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 193537,
+      "Score": 193541,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 190565,
+      "Score": 190587,
       "Locked": 1
     },
     {
