@@ -192,7 +192,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 30415,
+      "Score": 30546,
       "Locked": 1
     },
     {
@@ -202,7 +202,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 178323,
+      "Score": 182114,
       "Locked": 1
     },
     {
@@ -212,12 +212,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 139225,
+      "Score": 139226,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 479868,
+      "Score": 481486,
       "Locked": 1
     },
     {
