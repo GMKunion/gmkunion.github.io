@@ -234,7 +234,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.kill_count",
-      "Score": 140422,
+      "Score": 140424,
       "Locked": 1
     },
     {
@@ -254,12 +254,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 346886,
+      "Score": 346897,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 1419575,
+      "Score": 1420036,
       "Locked": 1
     },
     {
