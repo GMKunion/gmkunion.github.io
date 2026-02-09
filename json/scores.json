@@ -744,7 +744,7 @@
   "mchco": [
     {
       "Objective": "fzsd.module.scoreboard.display.activation",
-      "Score": 1,
+      "Score": 2,
       "Locked": 1
     },
     {
@@ -754,12 +754,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 122,
+      "Score": 590,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 1822,
+      "Score": 5480,
       "Locked": 1
     }
   ],
