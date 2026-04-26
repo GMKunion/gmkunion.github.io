@@ -308,7 +308,7 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.aviating_distance",
-      "Score": 12642,
+      "Score": 13936,
       "Locked": 1
     },
     {
@@ -323,12 +323,12 @@
     },
     {
       "Objective": "fzsd.module.scoreboard.display.dig_count",
-      "Score": 82,
+      "Score": 84,
       "Locked": 1
     },
     {
       "Objective": "fzsd.module.scoreboard.display.placement_count",
-      "Score": 94,
+      "Score": 96,
       "Locked": 1
     },
     {
